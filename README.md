@@ -1,2 +1,5 @@
 # Shift-Documentation
-현대이지웰 Java 풀스택 개발자 아카데미 6기 팀프로젝트 산출물 업로드용 repo
+## contents
+1. 기획서
+2. WBS
+3. 주간일지 (10월 4주차~)
